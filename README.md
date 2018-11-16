@@ -4,3 +4,4 @@
 * http://karen.jigsawstudio.org/projects/millionaire/
 * http://karen.jigsawstudio.org/projects/numbers/
 * http://karen.jigsawstudio.org/projects/paint/
+* http://karen.jigsawstudio.org/projects/slider/
